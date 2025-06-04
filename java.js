@@ -127,19 +127,19 @@
         <div class="productos">
           ${[
             {
-              img: "imagenes/chaqueta_aviador.jpg",
+              img: "chaqueta_aviador.jpg",
               alt: "Chaqueta de cuero 1",
               nombre: "Chaqueta Aviador",
               desc: "Cuero vacuno envejecido gris grafito"
             },
             {
-              img: "imagenes/blazer_femenino.jpg",
+              img: "blazer_femenino.jpg",
               alt: "Chaqueta de cuero 2",
               nombre: "Blazer Femenino",
               desc: "Estilo moderno, corte slim fit"
             },
             {
-              img: "imagenes/casaca_urbana.jpg",
+              img: "casaca_urbana.jpg",
               alt: "Chaqueta de cuero 3",
               nombre: "Casaca Urbana",
               desc: "Diseño minimalista en gris perla"
